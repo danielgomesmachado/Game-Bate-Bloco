@@ -5,6 +5,6 @@ Para jogá-lo, clique na imagem abaixo.
 
 <p align="center">
   <a href="https://danielgomesmachado.github.io/Game-Bate-Bloco/" target="_blank">
-    <img src="https://github.com/danielgomesmachado/Game-Voa-Voa-Aviao/blob/main/thumb_batebloco.png" alt="Clique para jogar!" width="350">
+    <img src="https://github.com/danielgomesmachado/Game-Bate-Bloco/blob/main/thumb_batebloco.png" alt="Clique para jogar!" width="350">
   </a>
 </p>
